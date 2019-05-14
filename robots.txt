@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aewuvaere.natejlong.org/sitemap.xml
